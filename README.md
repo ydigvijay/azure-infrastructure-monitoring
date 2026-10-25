@@ -199,4 +199,4 @@ Aspiring Cloud Engineer | AWS Certified Solutions Architect – Associate | Linu
 
 ---
 
-*This project is intended for educational and portfolio purposes. Resource availability, configuration, and costs depend on the Azure subscription and selected services.*
+
