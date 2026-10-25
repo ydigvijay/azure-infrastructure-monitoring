@@ -187,7 +187,7 @@ This project is designed to develop practical skills in:
 
 ## Project Status
 
-**Status:** In progress.
+**Status:** Completed.
 
 This repository documents the project design and implementation. Completed features, screenshots, and results will be updated as they are deployed and verified.
 
